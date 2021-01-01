@@ -1,2 +1,4 @@
 # ppbdyo.ftw
-ppbdyo.ftw avatar
+![ppbdyo.ftw](https://raw.githubusercontent.com/ppbd/ppbdyo.ftw/main/ppbdyo.ftw.png "PPBD.Yo")
+
+avatar for EOS account https://bloks.io/account/ppbdyo.ftw
